@@ -109,3 +109,45 @@ Create an e-commerce application with:
 - Admin dashboard
 - MongoDB database
 - REST APIs
+
+# 🏛️ System Architecture
+
+                         ┌──────────────────┐
+                         │      USER        │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ React Frontend   │
+                         │                  │
+                         │ Chat UI          │
+                         │ Dashboard       │
+                         │ Projects        │
+                         │ Components      │
+                         └────────┬─────────┘
+                                  │
+                              REST API
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ Express Backend  │
+                         │                  │
+                         │ Routes           │
+                         │ Controllers      │
+                         │ Middleware       │
+                         │ Services         │
+                         └───────┬──────────┘
+                                 │
+                   ┌─────────────┴──────────────┐
+                   │                            │
+                   ▼                            ▼
+          ┌──────────────────┐         ┌──────────────────┐
+          │     MongoDB      │         │    AI Service    │
+          │                  │         │                  │
+          │ Users            │         │ LLM              │
+          │ Conversations    │         │ AI Responses     │
+          │ Messages         │         │ Code Generation  │
+          │ Projects         │         │ AI Assistance    │
+          └──────────────────┘         └──────────────────┘
+
+----
