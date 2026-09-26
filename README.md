@@ -91,26 +91,7 @@ Users can interact with AI to:
 
 ---
 
-# 🏗️ AI-Assisted Project Development
-
-One of the major concepts behind ChatForge is conversational software development.
-
-Instead of manually creating every part of an application, users can describe what they want to build.
-
-### Example
-
-```text
-Create an e-commerce application with:
-
-- User authentication
-- Product management
-- Shopping cart
-- Payment integration
-- Admin dashboard
-- MongoDB database
-- REST APIs
-
-# 🏛️ System Architecture
+## 🏛️ System Architecture
 
                          ┌──────────────────┐
                          │      USER        │
@@ -151,3 +132,25 @@ Create an e-commerce application with:
           └──────────────────┘         └──────────────────┘
 
 ----
+
+
+# 🏗️ AI-Assisted Project Development
+
+One of the major concepts behind ChatForge is conversational software development.
+
+Instead of manually creating every part of an application, users can describe what they want to build.
+
+### Example
+
+```text
+Create an e-commerce application with:
+
+- User authentication
+- Product management
+- Shopping cart
+- Payment integration
+- Admin dashboard
+- MongoDB database
+- REST APIs
+
+---
