@@ -133,50 +133,6 @@ Users can interact with AI to:
 
 ----
 
-
-
-##🌟 What Makes ChatForge Different?
-
-ChatForge is not designed as only another AI chatbot.
-The larger concept is to create a conversational development environment.
-
-Instead of:
-Think of an idea
-       ↓
-Search for tools
-       ↓
-Open an IDE
-       ↓
-Write code
-       ↓
-Search documentation
-       ↓
-Debug
-       ↓
-Ask AI
-       ↓
-Repeat
-ChatForge moves toward:
-              YOUR IDEA
-                  │
-                  ▼
-             CHAT WITH AI
-                  │
-                  ▼
-           PLAN THE SOLUTION
-                  │
-                  ▼
-            BUILD WITH AI
-                  │
-                  ▼
-             REFINE IT
-                  │
-                  ▼
-              CREATE
-
-----
-
-
 ## 📌 Project Information
 
 | Category        | Details                           |
